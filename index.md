@@ -32,9 +32,4 @@ sections:
       title: In The Press
       subtitle: Learn more
       button: View More
-  - infobar:
-      title: Frequently Asked Questions
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
