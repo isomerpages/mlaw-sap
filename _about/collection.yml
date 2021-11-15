@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Public clarifications on judicial independence.md
       - Who we are.md
       - Terms of Reference.md
       - Members.md
