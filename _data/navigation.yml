@@ -1,14 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: In The Press
-    collection: in-the-press
-  - title: Resource
-    resource_room: true
   - title: About
     collection: about
   - title: Publications
     collection: publications
+  - title: In The Press
+    collection: in-the-press
+  - title: Resource
+    resource_room: true
+  - title: FAQs
+    url: /permalink
+  - title: Contact Us
+    url: /contact-us/
