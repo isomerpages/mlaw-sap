@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - Who we are.md
+      - Terms of Reference.md
