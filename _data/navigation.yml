@@ -4,8 +4,8 @@ links:
     collection: about
   - title: Publications
     collection: publications
-  - title: In The Press
-    collection: in-the-press
+  - title: News
+    collection: news
   - title: Resource
     resource_room: true
   - title: FAQs
