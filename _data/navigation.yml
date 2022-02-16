@@ -1,14 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About
+  - title: About Us
     collection: about
   - title: Publications
     collection: publications
   - title: News
     collection: news
-  - title: Resource
-    resource_room: true
-  - title: FAQs
-    url: /permalink
   - title: Contact Us
     url: /contact-us/
