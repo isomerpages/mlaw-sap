@@ -1,5 +1,5 @@
 collections:
-  in-the-press:
+  news:
     output: true
     order:
       - page.md
