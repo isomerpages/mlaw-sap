@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: The Sentencing Advisory Panel
+agency_name: the Sentencing Advisory Panel
 locations:
   - address:
       - 100 High Street,
@@ -16,8 +16,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: 1 800 225 5529
+      - email: ""
+      - other: "[go.gov contact form]"
     title: General Enquiries & Feedback
 ---
