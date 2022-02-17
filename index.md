@@ -25,12 +25,10 @@ sections:
           url: /privacy/
   - infobar:
       title: Publications
-      subtitle: Subtitle
       description: Sentencing Guidelines and Reports
-      button: Button text
-      url: /faq/
+      button: View more
+      url: /publications/
   - resources:
-      title: In The Press
-      subtitle: Learn more
+      title: News
       button: View More
 ---
