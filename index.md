@@ -16,13 +16,13 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: ""
+          url: /about-us/
         - title: Publications
           description: ""
-          url: https://gmail.com
+          url: /publications/
         - title: News
           description: Announcements and Speeches
-          url: /privacy/
+          url: /news/
   - infobar:
       title: Publications
       description: Sentencing Guidelines and Reports
