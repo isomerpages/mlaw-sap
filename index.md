@@ -8,9 +8,9 @@ notification: ""
 sections:
   - hero:
       title: Sentencing Advisory Panel
-      subtitle: Promote greater consistency, transparency and public awareness in
+      subtitle: Promoting greater consistency, transparency and public awareness in
         sentencing
-      background: /images/hero-banner.png
+      background: /images/SAP website banner.jpeg
       button: Contact Us
       url: /contact-us/
       key_highlights:
