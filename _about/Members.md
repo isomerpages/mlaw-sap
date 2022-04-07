@@ -3,7 +3,7 @@ title: Members
 permalink: /members
 description: ""
 ---
-#### **Justice of the Court of Appeal, Justice Steven Chong (Chairperson of the Panel)**
+### **Justice of the Court of Appeal, Justice Steven Chong (Chairperson of the Panel)**
 
 ![](/images/Bio%20photos/JCA%20Steven%20Chong.jpeg)
 
@@ -17,7 +17,7 @@ He assumed office as the 7 th Attorney-General on 25 June 2012 and served for tw
 
 On 8 December 2020, Justice Chong was appointed as an expert member of the International Commercial Expert Committee of the Supreme People’s Court of the People’s Republic of China.
 
-#### **Second Minister for Law Edwin Tong**
+### **Second Minister for Law Edwin Tong**
 
 ![](/images/Bio%20photos/Edwin%20Tong%20-%20Formal%20(Cropped).jpeg)
 
