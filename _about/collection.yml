@@ -2,5 +2,5 @@ collections:
   about:
     output: true
     order:
-      - Who we are.md
+      - About Us.md
       - Members.md
