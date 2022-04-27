@@ -87,7 +87,7 @@ He served as the Principal Private Secretary to the Prime Minister from 2000 to 
 
 ### Permanent Secretary (Law) Loh Khum Yean
 
-![](/images/Bio%20photos/PS%20Loh%20Khum%20Yean.jpeg)
+![](/images/Bio%20photos/PSredux0001.jpg)
 
 Mr Loh Khum Yean was appointed Permanent Secretary in the Ministry of Law (MinLaw) in April 2022. He is also concurrently Permanent Secretary of the Public Service Division (PSD).
 
@@ -139,4 +139,4 @@ After being called to the Bar in 2005, Mr Sudheesan cultivated deep experience i
 
 Mr Sudheesan is actively involved in pro bono work: he attends regularly at various legal clinics, volunteers with the Law Society’s Criminal Legal Aid Scheme, and assists in the Enhanced Guidance for Plea Scheme in the State Courts. 
 
-Mr Sudheesan was awarded the Subordinate Courts’ Volunteer of the Year (Advocate and Solicitor category) in 2010. 
+Mr Sudheesan was awarded the Subordinate Courts’ Volunteer of the Year (Advocate and Solicitor category) in 2010.
