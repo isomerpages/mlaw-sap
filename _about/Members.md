@@ -87,7 +87,7 @@ He served as the Principal Private Secretary to the Prime Minister from 2000 to 
 
 ### Permanent Secretary (Law) Loh Khum Yean
 
-![](/images/Bio%20photos/PSredux0001.jpg)
+![](/images/Bio%20photos/PS%20Photo%20(LTA).jpg)
 
 Mr Loh Khum Yean was appointed Permanent Secretary in the Ministry of Law (MinLaw) in April 2022. He is also concurrently Permanent Secretary of the Public Service Division (PSD).
 
