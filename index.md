@@ -24,11 +24,10 @@ sections:
           description: Announcements and Speeches
           url: /news/
   - infobar:
-      title: Publications
-      description: Sentencing Guidelines
+      description: Announcements and Speeches
       button: View more
-      url: /publications/
-      subtitle: Sentencing Guidelines
+      url: /news/
+      subtitle: News
   - resources:
       title: News
       button: View More
