@@ -27,7 +27,7 @@ sections:
       button: View more
       url: /publications/
       subtitle: Publications
-      title: Sentencing Guidelines and Reports
+      title: Sentencing Guidelines
   - resources:
       title: Announcements and Speeches
       button: View More
