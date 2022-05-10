@@ -25,9 +25,10 @@ sections:
           url: /news/
   - infobar:
       title: Publications
-      description: Sentencing Guidelines and Reports
+      description: Sentencing Guidelines
       button: View more
       url: /publications/
+      subtitle: Sentencing Guidelines
   - resources:
       title: News
       button: View More
