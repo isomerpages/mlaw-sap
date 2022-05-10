@@ -16,8 +16,8 @@ locations:
     title: Main Office
 contacts:
   - content:
-      - phone: 1 800 225 5529
+      - phone: ""
       - email: ""
-      - other: "[go.gov contact form]"
+      - other: https://go.gov.sg/sentencing-advisory-panel-contact-us
     title: General Enquiries & Feedback
 ---
