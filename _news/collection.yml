@@ -3,4 +3,6 @@ collections:
     output: true
     order:
       - Speeches/.keep
+      - "Announcements/Press Release: Establishment of the Sentencing Advisory
+        Panel.md"
       - Announcements/.keep
