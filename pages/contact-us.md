@@ -14,10 +14,4 @@ locations:
         description: Closed on Public Holidays
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Main Office
-contacts:
-  - content:
-      - phone: ""
-      - email: ""
-      - other: https://go.gov.sg/sentencing-advisory-panel-contact-us
-    title: General Enquiries & Feedback
 ---
