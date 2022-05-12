@@ -2,7 +2,7 @@
 layout: homepage
 title: Sentencing Advisory Panel
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/Bio photos/Sentencing Advisory Panel Logo (Temporary).png
 permalink: /
 notification: ""
 sections:
@@ -31,3 +31,4 @@ sections:
       button: View More
       subtitle: News
 ---
+
