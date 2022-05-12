@@ -2,4 +2,4 @@ collections:
   publications:
     output: true
     order:
-      - Sentencing Guidelines and Reports.md
+      - Sentencing Guidelines.md
