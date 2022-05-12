@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://mlaw-sap-staging.netlify.app
 prod: https://mlaw-sap-prod.netlify.app
+is_government: false
