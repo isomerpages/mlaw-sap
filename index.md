@@ -11,8 +11,6 @@ sections:
       subtitle: Promoting greater consistency, transparency and public awareness in
         sentencing
       background: /images/SAP website banner.jpeg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: About Us
           description: ""
@@ -21,8 +19,11 @@ sections:
           description: ""
           url: /publications/
         - title: News
-          description: Announcements and Speeches
+          description: ""
           url: /news/
+        - title: Contact Us
+          description: ""
+          url: /contact-us/
   - infobar:
       button: View more
       url: /publications/
