@@ -3,5 +3,4 @@ title: Sentencing Guidelines
 permalink: /sentencing-guidelines
 description: ""
 ---
-
-There are no publications at the moment.
+There are no guidelines at the moment.
