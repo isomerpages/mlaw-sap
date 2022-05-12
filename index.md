@@ -14,10 +14,10 @@ sections:
       key_highlights:
         - title: About Us
           description: ""
-          url: /about-us/
+          url: /what-we-do/
         - title: Publications
           description: ""
-          url: /publications/
+          url: /sentencing-guidelines/
         - title: News
           description: ""
           url: /news/
@@ -31,5 +31,3 @@ sections:
       button: View More
       subtitle: News
 ---
-
-
