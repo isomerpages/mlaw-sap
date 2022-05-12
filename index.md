@@ -21,9 +21,6 @@ sections:
         - title: News
           description: ""
           url: /news/
-        - title: Contact Us
-          description: ""
-          url: /contact-us/
   - infobar:
       button: View more
       url: /publications/
