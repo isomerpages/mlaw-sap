@@ -26,8 +26,9 @@ sections:
       url: /publications/
       subtitle: Publications
       title: Sentencing Guidelines
-  - resources:
+  - infobar:
       title: Announcements and Speeches
-      button: View More
       subtitle: News
+      button: View More
+      url: /news/announcements/press-release-establishment-of-the-sentencing-advisory-panel
 ---
