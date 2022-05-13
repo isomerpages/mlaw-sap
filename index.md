@@ -20,7 +20,7 @@ sections:
           url: /sentencing-guidelines/
         - title: News
           description: ""
-          url: /news/
+          url: /news/news/
   - infobar:
       button: View more
       url: /publications/
@@ -31,5 +31,3 @@ sections:
       button: View More
       subtitle: News
 ---
-
-
