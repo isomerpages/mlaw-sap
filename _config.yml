@@ -1,6 +1,6 @@
 title: Sentencing Advisory Panel
 url: ""
-favicon: /images/Bio photos/Sentencing Advisory Panel Logo (Temporary).png
+favicon: /images/Blank.png
 colors:
   primary-color: "#56a6b8"
   secondary-color: "#4372d6"
@@ -53,4 +53,4 @@ plugins:
 staging: https://mlaw-sap-staging.netlify.app
 prod: https://mlaw-sap-prod.netlify.app
 is_government: false
-shareicon: /images/Bio photos/Sentencing Advisory Panel Logo (Temporary).png
+shareicon: /images/Blank.png
