@@ -52,5 +52,5 @@ plugins:
   - jekyll-remote-theme
 staging: https://mlaw-sap-staging.netlify.app
 prod: https://mlaw-sap-prod.netlify.app
-is_government: false
+is_government: true
 shareicon: /images/Blank.png
