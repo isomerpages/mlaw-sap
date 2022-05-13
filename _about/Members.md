@@ -5,7 +5,7 @@ description: ""
 ---
 ### Justice of the Court of Appeal, Justice Steven Chong (Chairperson of the Panel)
 
-![](/images/Bio%20photos/JCA%20Steven%20Chong%20(resized).jpg)
+![](/images/Bio%20photos/JCA%20Steven%20Chong.jpeg)
 
 Justice Steven Chong was appointed Judge of Appeal of the Supreme Court on 1 April 2017.
 
@@ -19,7 +19,7 @@ On 8 December 2020, Justice Chong was appointed as an expert member of the Inter
 
 ### Second Minister for Law Edwin Tong
 
-![](/images/Bio%20photos/Edwin%20Tong%20-%20Formal%20(Cropped)(resized).jpg)
+![](/images/Bio%20photos/Edwin%20Tong%20-%20Formal%20(Cropped).jpeg)
 
 Second Minister Edwin Tong was appointed as Senior Minister of State for Law in July 2018, and as Second Minister for Law and Minister for Culture, Community and Youth in July 2020.  
 
