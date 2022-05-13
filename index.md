@@ -20,7 +20,7 @@ sections:
           url: /sentencing-guidelines/
         - title: News
           description: ""
-          url: /news/news/
+          url: /news/announcements/press-release-establishment-of-the-sentencing-advisory-panel
   - infobar:
       button: View more
       url: /publications/
