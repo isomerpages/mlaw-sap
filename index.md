@@ -2,7 +2,7 @@
 layout: homepage
 title: Sentencing Advisory Panel
 description: Brief site description here
-image: /images/Bio photos/Sentencing Advisory Panel Logo (Temporary).png
+image: /images/Blank.png
 permalink: /
 notification: ""
 sections:
@@ -31,4 +31,5 @@ sections:
       button: View More
       subtitle: News
 ---
+
 
