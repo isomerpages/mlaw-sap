@@ -31,4 +31,8 @@ sections:
       subtitle: News
       button: View More
       url: /news/announcements/press-release-establishment-of-the-sentencing-advisory-panel
+  - resources:
+      title: Announcements and Speeches
+      subtitle: News
+      button: View More
 ---
