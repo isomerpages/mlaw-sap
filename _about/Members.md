@@ -110,7 +110,7 @@ Mr Loh also served as Deputy Secretary in the Ministry of Finance in 2002, Chief
 
 ### Registrar (State Courts) Christopher Tan
 
-![](/images/Bio%20photos/DJ%20Chris%20Tan%20resized.png)
+![](/images/Bio%20photos/DJ%20Chris%20Tan%20resized2.png)
 
 Mr Christopher Tan was appointed as Registrar of the State Courts in 2020. 
 
