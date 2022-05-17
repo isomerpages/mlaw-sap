@@ -110,7 +110,7 @@ Mr Loh also served as Deputy Secretary in the Ministry of Finance in 2002, Chief
 
 ### Registrar (State Courts) Christopher Tan
 
-![](/images/Bio%20photos/DJ%20Chris%20Tan.jpeg)
+![](/images/Bio%20photos/DJ%20Chris%20Tan%20resized.png)
 
 Mr Christopher Tan was appointed as Registrar of the State Courts in 2020. 
 
@@ -120,7 +120,7 @@ Mr Tan was awarded the Public Administration Medal (Silver) in 2011.
 
 ### District Judge Kow Keng Siong
 
-![](/images/Bio%20photos/Mr%20Kow%20Keng%20Siong.jpeg)
+![](/images/Bio%20photos/Kow%20Keng%20Siong%20resized.png)
 
 Mr Kow Keng Siong was appointed as a District Judge in the State Courts in 2021. 
 
