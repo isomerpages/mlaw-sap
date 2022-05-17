@@ -80,7 +80,7 @@ He was awarded the Public Administration Medal (Gold) in 2015.
 
 ### Deputy Attorney-General Tai Wei Shyong
 
-![](/images/Bio%20photos/DAG%20Tai%20Wei%20Shyong.jpeg)
+![](/images/Bio%20photos/DAG%20Tai%20resized.png)
 
 Deputy Attorney-General (DAG) Tai Wei Shyong assumed his present office on 1 January 2021. 
 
