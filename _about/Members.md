@@ -90,7 +90,7 @@ DAG Tai obtained an MPhil in Criminology from the University of Cambridge in 200
 
 ### Permanent Secretary (Home Affairs) Pang Kin Keong
 
-![](/images/Bio%20photos/Mr%20Pang%20Kin%20Keong%20a1%20(1).jpg)
+![](/images/Bio%20photos/Ps%20Pang%20resized.png)
 
 Mr Pang Kin Keong was appointed as the Permanent Secretary of the Ministry of Home Affairs in September 2017.
 
