@@ -144,7 +144,7 @@ Deputy Commissioner Florence Chua was awarded the Public Administration Medal (S
 
 ### Mr Sunil Sudheesan
 
-![](/images/Bio%20photos/Mr%20Sunil%20Sudheesan%20resized.png)
+![](/images/Bio%20photos/Mr%20Sunil%20Sudheesan%20resized2.png)
 
 Mr Sunil Sudheesan is the Head of Quahe Woo & Palmer LLC’s Criminal Law Practice Department. He is also the President of the Association of Criminal Lawyers of Singapore, and a member of the Council of the Law Society of Singapore. 
 
