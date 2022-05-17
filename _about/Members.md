@@ -34,7 +34,7 @@ On 8 December 2020, Justice Chong was appointed as an expert member of the Inter
 
 ### Second Minister for Law Edwin Tong
 
-![](/images/Bio%20photos/Edwin%20Tong%20-%20Formal%20(Cropped).jpeg)
+![](/images/Bio%20photos/Edwin%20Tong%20resized.png)
 
 Second Minister Edwin Tong was appointed as Senior Minister of State for Law in July 2018, and as Second Minister for Law and Minister for Culture, Community and Youth in July 2020.  
 
@@ -134,7 +134,7 @@ He was awarded the Public Administration Award (Bronze) in 2004 and the Public A
 
 ### Deputy Commissioner (Investigation & Intelligence) Florence Chua 
 
-![](/images/Bio%20photos/DC%20Florence%20Chua.jpeg)
+![](/images/Bio%20photos/DC%20Florence%20Chua%20resized.png)
 
 Deputy Commissioner Florence Chua joined the Singapore Police Force (SPF) in 1989 and was appointed Deputy Commissioner of Police in June 2018, overseeing Investigations and Intelligence. She oversees the investigation of all major and specialised crimes in Singapore, and advances investigation and intelligence policies and capabilities. 
 
@@ -144,7 +144,7 @@ Deputy Commissioner Florence Chua was awarded the Public Administration Medal (S
 
 ### Mr Sunil Sudheesan
 
-![](/images/Bio%20photos/Mr%20Sunil%20Sudheesan.jpeg)
+![](/images/Bio%20photos/Mr%20Sunil%20Sudheesan%20resized.png)
 
 Mr Sunil Sudheesan is the Head of Quahe Woo & Palmer LLC’s Criminal Law Practice Department. He is also the President of the Association of Criminal Lawyers of Singapore, and a member of the Council of the Law Society of Singapore. 
 
