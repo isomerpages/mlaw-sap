@@ -30,7 +30,7 @@ ii. MLAW may modify or discontinue any information or features that form part of
 
 **Security**
 
-i. Where appropriate, MLAW uses available technology to protect the security of communications made through this Website. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any transactions or other communications made through this Website. You carry out any such transactions or communications at your own risk.
+i. Where appropriate, MLAW uses available technology to protect the security of communications made through this Website. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any communications made through this Website. You carry out any such communications at your own risk.
 
 ii. Internet communications may be susceptible to interference or interception by third parties. Despite MLAW’s best efforts, MLAW makes no warranties that this Website is free of infection by computer viruses or other unauthorised software.
 
@@ -44,11 +44,11 @@ vi. For infocomm security best practices and tips, you may wish to visit https:/
 
 **Links to this Website**
 
-i. This Website contains links to non-Government Digital Service which are not maintained by MLAW (“private digital service”). MLAW is not responsible or liable for the availability or the contents of any private digital service linked to or from the Site.
+i. This Website may contain links to non-Government Digital Service which are not maintained by MLAW (“private digital service”). MLAW is not responsible or liable for the availability or the contents of any private digital service linked to or from this Website.
 
 ii. MLAW is not liable for any damages or loss of any kind caused as a result (whether direct or indirect) of the use of any private digital service, including but not limited to any damage or loss suffered as a result of reliance on the contents contained in or available on the private digital service.
 
-iii. Links to other Digital Service are provided in this Website as a convenience. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service to which the Digital Service links to.
+iii. Links to other digital service may be provided in this Website as a convenience. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on any digital service to which this website links to.
 
 iv. Except as set forth below, caching and links to, and the framing of this Website or any of the content therein is prohibited:
 
