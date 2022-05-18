@@ -20,7 +20,7 @@ description: ""
 
 ### Justice of the Court of Appeal, Justice Steven Chong (Chairperson of the Panel)
 
-![](/images/Bio%20photos/JCA%20Steven%20Chong.jpeg)
+![](/images/Bio%20photos%20resized/JCA%20Chong.png)
 
 Justice Steven Chong was appointed Judge of Appeal of the Supreme Court on 1 April 2017.
 
@@ -34,7 +34,7 @@ On 8 December 2020, Justice Chong was appointed as an expert member of the Inter
 
 ### Second Minister for Law Edwin Tong
 
-![](/images/Bio%20photos/Edwin%20Tong%20resized.png)
+![](/images/Bio%20photos%20resized/2M%20Tong.png)
 
 Second Minister Edwin Tong was appointed as Senior Minister of State for Law in July 2018, and as Second Minister for Law and Minister for Culture, Community and Youth in July 2020.  
 
@@ -42,7 +42,7 @@ Before taking office, Second Minister Tong practised extensively in corporate an
 
 ### Justice See Kee Oon
 
-![](/images/Bio%20photos/Justice%20See%20Kee%20Oon.jpeg)
+![](/images/Bio%20photos%20resized/See%20J.png)
 
 Justice See Kee Oon was appointed Judicial Commissioner in 2014 and a High Court Judge in January 2017. 
 
@@ -52,7 +52,7 @@ Justice See chairs the Singapore Academy of Law (SAL) Legal Heritage Committee a
 
 ### Justice Hoo Sheau Peng
 
-![](/images/Bio%20photos/Justice%20Hoo%20Sheau%20Peng.jpeg)
+![](/images/Bio%20photos%20resized/Hoo%20J.png)
 
 Justice Hoo Sheau Peng was appointed Judicial Commissioner on 30 September 2014 and a High
 Court Judge on 30 September 2017.
@@ -64,7 +64,7 @@ General’s Chambers. Concurrently, she was appointed as the Deputy Chief of Sta
 
 ### Justice Vincent Hoong
 
-![](/images/Bio%20photos/Vincent%20Hoong.jpeg)
+![](/images/Bio%20photos%20resized/Hoong%20J.png)
 
 Justice Vincent Hoong was appointed Judicial Commissioner on 10 April 2019 and a High Court Judge on 3 January 2020; he is concurrently the Presiding Judge of the State Courts. 
 
@@ -80,7 +80,7 @@ He was awarded the Public Administration Medal (Gold) in 2015.
 
 ### Deputy Attorney-General Tai Wei Shyong
 
-![](/images/Bio%20photos/DAG%20Tai%20resized.png)
+![](/images/Bio%20photos%20resized/DAG%20Tai.png)
 
 Deputy Attorney-General (DAG) Tai Wei Shyong assumed his present office on 1 January 2021. 
 
@@ -90,7 +90,7 @@ DAG Tai obtained an MPhil in Criminology from the University of Cambridge in 200
 
 ### Permanent Secretary (Home Affairs) Pang Kin Keong
 
-![](/images/Bio%20photos/Ps%20Pang%20resized.png)
+![](/images/Bio%20photos%20resized/PS%20Pang.png)
 
 Mr Pang Kin Keong was appointed as the Permanent Secretary of the Ministry of Home Affairs in September 2017.
 
@@ -100,7 +100,7 @@ He served as the Principal Private Secretary to the Prime Minister from 2000 to 
 
 ### Permanent Secretary (Law) Loh Khum Yean
 
-![](/images/Bio%20photos/PS%20Loh%20resized.png)
+![](/images/Bio%20photos%20resized/PS%20Loh.png)
 
 Mr Loh Khum Yean was appointed Permanent Secretary in the Ministry of Law (MinLaw) in April 2022. He is also concurrently Permanent Secretary of the Public Service Division (PSD).
 
@@ -110,7 +110,7 @@ Mr Loh also served as Deputy Secretary in the Ministry of Finance in 2002, Chief
 
 ### Registrar (State Courts) Christopher Tan
 
-![](/images/Bio%20photos/DJ%20Chris%20Tan%20resized2.png)
+![](/images/Bio%20photos%20resized/DJ%20Tan.png)
 
 Mr Christopher Tan was appointed as Registrar of the State Courts in 2020. 
 
@@ -120,7 +120,7 @@ Mr Tan was awarded the Public Administration Medal (Silver) in 2011.
 
 ### District Judge Kow Keng Siong
 
-![](/images/Bio%20photos/Kow%20Keng%20Siong%20resized.png)
+![](/images/Bio%20photos%20resized/DJ%20Kow.png)
 
 Mr Kow Keng Siong was appointed as a District Judge in the State Courts in 2021. 
 
@@ -134,7 +134,7 @@ He was awarded the Public Administration Award (Bronze) in 2004 and the Public A
 
 ### Deputy Commissioner (Investigation & Intelligence) Florence Chua 
 
-![](/images/Bio%20photos/DC%20Florence%20Chua%20resized.png)
+![](/images/Bio%20photos%20resized/DC%20Chua.png)
 
 Deputy Commissioner Florence Chua joined the Singapore Police Force (SPF) in 1989 and was appointed Deputy Commissioner of Police in June 2018, overseeing Investigations and Intelligence. She oversees the investigation of all major and specialised crimes in Singapore, and advances investigation and intelligence policies and capabilities. 
 
@@ -144,7 +144,7 @@ Deputy Commissioner Florence Chua was awarded the Public Administration Medal (S
 
 ### Mr Sunil Sudheesan
 
-![](/images/Bio%20photos/Mr%20Sunil%20Sudheesan%20resized2.png)
+![](/images/Bio%20photos%20resized/Mr%20Sudheesan.png)
 
 Mr Sunil Sudheesan is the Head of Quahe Woo & Palmer LLC’s Criminal Law Practice Department. He is also the President of the Association of Criminal Lawyers of Singapore, and a member of the Council of the Law Society of Singapore. 
 
