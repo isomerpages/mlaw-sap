@@ -52,27 +52,25 @@ iii. Links to other digital service may be provided in this Website as a conveni
 
 iv. Except as set forth below, caching and links to, and the framing of this Website or any of the content therein is prohibited:
 
-You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Digital Service, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Digital Service.
+You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Website, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Website.
 
-Your linking to, or your framing of this Digital Service or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Digital Service or any of the content.
+Your linking to, or your framing of this Website or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Website or any of the content.
 
-Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on Digital Service that link to this Digital Service or any of the content.
+Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services that link to this Website or any of the content.
 
-MLAW reserves all rights to disable any links to, or frames of any Digital Service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+MLAW reserves all rights to disable any links to, or frames of any digital service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
 
-MLAW reserves the right to disable any unauthorised links or frames to the Digital Service and disclaims any responsibility for the content available on any other Digital Service reached by links to or from this Digital Service.
+MLAW reserves the right to disable any unauthorised links or frames to the digital service and disclaims any responsibility for the content available on any other digital service reached by links to or from this Website.
 
 **Intellectual Property**
 
 i. The materials located on this Website including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.
 
-ii. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW Approval should be sought by sending a request through this link.
-
-iii. You may make copies of the text for the purposes of applying for licences, permits and registrations on the Digital Service. You may also print out, and copy portions of the text in accordance with the provisions of the Copyright Act.
+ii. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW. Approval should be sought by sending a request through this link.
 
 **Privacy Policy**
 
-i. Please click here to review this website's Privacy Statement.
+i. Please click here to review this Website's Privacy Statement.
 
 **Disclaimers and Limitation of Liability**
 
