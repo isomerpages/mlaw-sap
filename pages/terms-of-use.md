@@ -66,11 +66,11 @@ MLAW reserves the right to disable any unauthorised links or frames to the digit
 
 i. The materials located on this Website including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.
 
-ii. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW. Approval should be sought by sending a request through this link.
+ii. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW. Approval should be sought by sending a request through this [link](sentencingpanel.gov.sg/contact-us).
 
 **Privacy Policy**
 
-i. Please click here to review this Website's Privacy Statement.
+i. Please click [here](sentencingpanel.gov.sg/privacy) to review this Website's Privacy Statement.
 
 **Disclaimers and Limitation of Liability**
 
