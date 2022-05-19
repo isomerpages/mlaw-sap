@@ -52,7 +52,7 @@ iii. Links to other digital service may be provided in this Website as a conveni
 
 iv. Except as set forth below, caching and links to, and the framing of this Website or any of the content therein is prohibited:
 
-You must make a specific request for, and secure permission from MLAW prior to linking to, or framing, any page or part of this Website, or engaging in similar activities. MLAW reserves the right to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Website.
+MLAW reserves the right to object to or disable any link to or from this Website; or to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Website.
 
 Your linking to, or your framing of this Website or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Website or any of the content.
 
