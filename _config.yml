@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#003e8f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#aa8acd"
 resources_name: resource
 description: ""
 permalink: none
