@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Test/Second Minister for Law Edwin Tong.md
-      - Test/Members (Master list).md
+      - Test/.keep
       - Test/Justice of the Court of Appeal, Justice Steven Chong (Chairperson
         of the Panel).md
-      - Test/.keep
+      - Test/Second Minister for Law Edwin Tong.md
+      - Test/Members (Master list).md
       - What We Do.md
