@@ -20,7 +20,7 @@ sections:
           url: /resource/
         - title: Contact Us
           description: ""
-          url: /contact-us/
+          url: /contact-us
   - resources:
       title: Latest Updates
       button: More Resources
