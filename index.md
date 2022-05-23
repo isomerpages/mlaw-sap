@@ -17,10 +17,10 @@ sections:
           url: /what-we-do/
         - title: Resources
           description: ""
-          url: ""
+          url: /resource/
         - title: Contact Us
           description: ""
-          url: ""
+          url: /contact-us/
   - resources:
       title: Latest Updates
       button: More Resources
