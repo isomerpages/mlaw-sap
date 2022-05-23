@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - What We Do.md
       - Members/.keep
       - Members/Justice of the Court of Appeal, Justice Steven Chong
         (Chairperson of the Panel).md
@@ -18,4 +19,3 @@ collections:
         Chua.md
       - Members/Mr Sunil Sudheesan.md
       - Members/Members (Master list).md
-      - What We Do.md
