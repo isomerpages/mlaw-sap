@@ -2,8 +2,6 @@ logo: /images/Blank.png
 links:
   - title: About Us
     collection: about-us
-  - title: Publications
-    collection: publications
   - title: News
     collection: news
   - title: Contact Us
