@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test/Permanent Secretary (Law) Loh Khum Yean.md
       - Test/.keep
       - Test/Justice of the Court of Appeal, Justice Steven Chong (Chairperson
         of the Panel).md
@@ -12,5 +11,6 @@ collections:
       - Test/Justice Vincent Hoong.md
       - Test/Deputy Attorney General Tai Wei Shyong.md
       - Test/Permanent Secretary (Home Affairs) Pang Kin Keong.md
+      - Test/Permanent Secretary (Law) Loh Khum Yean.md
       - Test/Members (Master list).md
       - What We Do.md
