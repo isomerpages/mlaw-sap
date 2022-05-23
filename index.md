@@ -15,12 +15,12 @@ sections:
         - title: About Us
           description: ""
           url: /what-we-do/
-        - title: Publications
+        - title: Resources
           description: ""
-          url: /sentencing-guidelines/
-        - title: News
+          url: /resources/
+        - title: Contact Us
           description: ""
-          url: /news/announcements/press-release-establishment-of-the-sentencing-advisory-panel
+          url: /contact-us
   - resources:
       title: Latest Updates
       button: More Resources
