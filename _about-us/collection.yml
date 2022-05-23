@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test/Deputy Attorney General Tai Wei Shyong.md
       - Test/.keep
       - Test/Justice of the Court of Appeal, Justice Steven Chong (Chairperson
         of the Panel).md
@@ -10,5 +9,6 @@ collections:
       - Test/Justice See Kee Oon.md
       - Test/Justice Hoo Sheau Peng.md
       - Test/Justice Vincent Hoong.md
+      - Test/Deputy Attorney General Tai Wei Shyong.md
       - Test/Members (Master list).md
       - What We Do.md
