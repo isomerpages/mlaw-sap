@@ -5,8 +5,7 @@ date: 2022-05-23
 layout: post
 description: ""
 ---
-
-1.	Following the announcement by Minister for Home Affairs and Minister for Law K Shanmugam SC in his Ministerial Statement on the Review of Sentencing Framework for Sexual and Hurt Offences on 5 March 2021 in Parliament, a Sentencing Advisory Panel (“Panel”) has been established. 
+1. Following the announcement by Minister for Home Affairs and Minister for Law K Shanmugam SC in his Ministerial Statement on the Review of Sentencing Framework for Sexual and Hurt Offences on 5 March 2021 in Parliament, a Sentencing Advisory Panel (“Panel”) has been established. 
 
 
 2.	The key function of the Panel is to formulate and publish guidelines on matters relating to sentencing, to promote greater consistency, transparency and public awareness in sentencing. 
@@ -27,6 +26,27 @@ description: ""
 7.	The Panel’s website can be accessed at www.sentencingpanel.gov.sg. 
 
 
-MINISTRY OF LAW
+**MINISTRY OF LAW**
 
-[XX] MAY 2022
+ANNEX
+
+| S/N | Members | Organisation |
+| -------- | -------- | -------- |
+| 1     | Justice of the Court of Appeal, Justice Steven Chong (Chairperson)    | Supreme Court     |
+| 2     | Second Minister for Law Mr Edwin Tong, SC    | Ministry of Law     |
+| 3    | Justice See Kee Oon    | Supreme Court     |
+| 4     | Justice Hoo Sheau Peng    | Supreme Court     |
+| 5     | Justice Vincent Hoong    | Supreme Court     |
+| 6     | Deputy Attorney-General Tai Wei Shyong    | Attorney-General's Chambers     |
+| 7     | Permanent Secretary (Home Affairs) Pang Kin Keong    | Ministry of Home Affairs     |
+| 8     | Permanent Secretary (Law) Loh Khum Yean    | Ministry of Law     |
+| 9     | Registrar (State Courts) Christopher Tan Pheng Wee    | State Courts     |
+| 10     | District Judge Kow Keng Siong    | State Courts     |
+| 11     | Deputy Commissioner (Investigation & Intelligence) Florence Chua    | Singapore Police Force     |		
+| 12     | Mr Sunil Sudheesan    | Law Society of Singapore     |
+
+
+
+
+
+
