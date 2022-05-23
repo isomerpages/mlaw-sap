@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test/Mr Sunil Sudheesan.md
       - Test/.keep
       - Test/Justice of the Court of Appeal, Justice Steven Chong (Chairperson
         of the Panel).md
@@ -16,5 +15,6 @@ collections:
       - Test/Registrar (State Courts) Christopher Tan Pheng Wee.md
       - Test/District Judge Kow Keng Siong.md
       - Test/Deputy Commissioner (Investigation & Intelligence) Florence Chua.md
+      - Test/Mr Sunil Sudheesan.md
       - Test/Members (Master list).md
       - What We Do.md
