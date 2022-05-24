@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What We Do.md
+      - Members/All Members.md
       - Members/.keep
       - Members/Justice of the Court of Appeal, Justice Steven Chong
         (Chairperson of the Panel).md
