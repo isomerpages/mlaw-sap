@@ -6,7 +6,7 @@ third_nav_title: Members
 ---
 | Members | Organisation | 
 | -------- | -------- | 
-| [Justice of the Court of Appeal, Justice Steven Chong (Chairperson)](/steven-chong)    | Supreme Court     |
+| [Justice of the Court of Appeal, Justice Steven Chong (Chairperson)](/about-us/Members/steven-chong)    | Supreme Court     |
 | [Second Minister for Law Mr Edwin Tong, SC](/about-us/Members/Edwin-Tong)    | Ministry of Law     |
 | [Justice See Kee Oon](/about-us/Members/See-Kee-Oon)    | Supreme Court     |
 | [Justice Hoo Sheau Peng](/about-us/Members/Hoo-Sheau-Peng)    | Supreme Court     |
