@@ -15,7 +15,7 @@ colors:
       color: "#003e8f"
     - title: media-color-five
       color: "#aa8acd"
-resources_name: resource
+resources_name: Resources
 description: ""
 permalink: none
 baseurl: ""
