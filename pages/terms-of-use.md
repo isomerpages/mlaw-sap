@@ -2,12 +2,100 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### **Terms of Use**
 
-#### **General Legal Information**
+**Agreement**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+i. Thank you for visiting **sentencingpanel.gov.sg** ("this Website"), the official website of the Sentencing Advisory Panel. This Website is owned and operated by the Government of the Republic of Singapore c/o the Ministry of Law (“MLAW”).
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+ii. Access to this Website is governed by the terms and conditions of use as stated below (“Terms of Use”). By accessing and using this Website, you shall be deemed to have accepted and agreed to be legally bound by these Terms of Use. If you do not accept or agree to any of these Terms of Use, please leave this Website.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+iii. These Terms of Use may be changed from time to time. All changes to the Terms of Use will be incorporated directly onto this page, and your use of this Website after such changes have been incorporated will constitute your agreement to the modified Terms of Use and all of the changes.
+
+iv. References to “this Website” in these Terms of Use shall include the Website in its entirety as well as its individual pages.
+
+**Access to this Website**
+
+i. The accessibility and operation of this Website relies on technology outside of MLAW’s control. MLAW does not guarantee continuous accessibility or uninterrupted operation of this Website.
+
+ii. MLAW reserves the right to temporarily suspend or shut down this Website for system maintenance or for such other purpose as MLAW may require, as and when necessary.
+
+iii. MLAW reserves all rights to deny or restrict access to this Website to any particular person or to block access from any Internet address to this Website or any part thereof, at any time, without ascribing any reasons whatsoever.
+
+**Reliance on Information on this Website**
+
+i. MLAW provides the this Website as a general information source only. This Website should not be taken as giving professional advice, and may not cover all the relevant information on a particular issue. Before relying in any way on the information on this Website, you should do your own checks and/or obtain the necessary professional advice on your particular issue.
+
+ii. MLAW may modify or discontinue any information or features that form part of this Website at any time, with or without notice to you, and without liability.
+
+**Security**
+
+i. Where appropriate, MLAW uses available technology to protect the security of communications made through this Website. Notwithstanding the above, MLAW does not accept liability for the security, authenticity, integrity or confidentiality of any communications made through this Website. You carry out any such communications at your own risk.
+
+ii. Internet communications may be susceptible to interference or interception by third parties. Despite MLAW’s best efforts, MLAW makes no warranties that this Website is free of infection by computer viruses or other unauthorised software.
+
+iii. You should take appropriate steps to keep your information, software and equipment secure.
+
+iv. This includes clearing your Internet browser cookies and cache before and after using any services on this Website.
+
+v. You should keep your passwords (including your SingPass and other designated passwords) confidential and secure. MLAW will not request for your passwords by e-mail or other modes of communication.
+
+vi. For infocomm security best practices and tips, you may wish to visit https://www.gosafeonline.sg.
+
+**Links to this Website**
+
+i. This Website may contain links to non-Government Digital Service which are not maintained by MLAW (“private digital service”). MLAW is not responsible or liable for the availability or the contents of any private digital service linked to or from this Website.
+
+ii. MLAW is not liable for any damages or loss of any kind caused as a result (whether direct or indirect) of the use of any private digital service, including but not limited to any damage or loss suffered as a result of reliance on the contents contained in or available on the private digital service.
+
+iii. Links to other digital service may be provided in this Website as a convenience. Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on any digital service to which this website links to.
+
+iv. Except as set forth below, caching and links to, and the framing of this Website or any of the content therein is prohibited:
+
+MLAW reserves the right to object to or disable any link to or from this Website; or to impose conditions when permitting any hyperlinking to, or framing of any page or part of this Website.
+
+Your linking to, or your framing of this Website or any of the content constitutes acceptance of these Terms of Use, including any subsequent changes or modifications to these Terms of Use. If you do not accept the Terms of Use as may be changed or modified from time to time, you must discontinue linking to, or framing of this Website or any of the content.
+
+Under no circumstances shall MLAW be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on digital services that link to this Website or any of the content.
+
+MLAW reserves all rights to disable any links to, or frames of any digital service containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights.
+
+MLAW reserves the right to disable any unauthorised links or frames to the digital service and disclaims any responsibility for the content available on any other digital service reached by links to or from this Website.
+
+**Intellectual Property**
+
+i. The materials located on this Website including the source code, data, pages, documents and online graphics, audio and video media, and information and software programs (“the Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by or licensed to MLAW.
+
+ii. Except as otherwise provided, no part of the Contents may be reproduced, transmitted, distributed, incorporated in printed or electronic form or used in any way without the prior written approval of MLAW. Approval should be sought by sending a request through this [link](sentencingpanel.gov.sg/contact-us).
+
+**Privacy Policy**
+
+i. Please click [here](sentencingpanel.gov.sg/privacy) to review this Website's Privacy Statement.
+
+**Disclaimers and Limitation of Liability**
+
+i. While every care is taken by MLAW in providing the Contents and services on this Website, MLAW does not make any warranty or representation whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:
+
+That your use of, or access to this Website will be uninterrupted, timely, secure, free of bugs, free from human tampering, free from viruses or other malicious, destructive or corrupting code, programme or macro, free from transmission errors or otherwise error-free or that there will not be any defects or deficiencies in this Website;
+
+As regards the security of this Website or the security of your information captured in or made available through applications for licences, permits or registrations at this Website; and
+
+As to the accuracy, completeness, reliability, non-infringement of third party rights, title, merchantability, satisfactory quality and/or fitness for any particular purpose of the Contents of this Website.
+
+ii. MLAW shall not be liable for any damages, losses, compensation, penalty, expenses or costs whatsoever (whether direct, indirect, special or consequential damage or economic loss and whether foreseeable or not) incurred on account of or arising from:
+
+Using, visiting or relying on any statements, opinion, representation or information provided through this Website;
+
+The access to this Website or use of any services offered on this Website;
+
+Any inaccuracy or incompleteness in, or errors or omission in the content of this Website;
+
+Any delay or errors in operation or transmission of this Website arising from communications failure, internet access difficulties or malfunctions in equipment or software;
+
+Use or access to this Website or any other website linked to this Website or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure; and
+
+Actions or omissions of any person who access or use the applications at this Website or obtains any information obtained directly or indirectly through this Website, regardless of whether MLAW has been advised of the possibility of such damages, loss, compensation, penalty, expenses or costs.
+
+**Applicable Law**
+
+i. Use of this Website and these Terms of Use and all its subsequent variations shall be subject to, governed by, and interpreted in accordance with the laws of the Republic of Singapore, and you hereby agree to submit to the exclusive jurisdiction of the Singapore courts in the determination of any dispute arising in connection with the use of this Website.

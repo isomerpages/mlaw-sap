@@ -1,0 +1,21 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - What We Do.md
+      - Members/All Members.md
+      - Members/.keep
+      - Members/Justice of the Court of Appeal, Justice Steven Chong
+        (Chairperson of the Panel).md
+      - Members/Second Minister for Law Edwin Tong.md
+      - Members/Justice See Kee Oon.md
+      - Members/Justice Hoo Sheau Peng.md
+      - Members/Justice Vincent Hoong.md
+      - Members/Deputy Attorney General Tai Wei Shyong.md
+      - Members/Permanent Secretary (Home Affairs) Pang Kin Keong.md
+      - Members/Permanent Secretary (Law) Loh Khum Yean.md
+      - Members/Registrar (State Courts) Christopher Tan Pheng Wee.md
+      - Members/District Judge Kow Keng Siong.md
+      - Members/Deputy Commissioner (Investigation & Intelligence) Florence
+        Chua.md
+      - Members/Mr Sunil Sudheesan.md
