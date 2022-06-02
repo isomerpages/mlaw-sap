@@ -5,7 +5,7 @@ date: 2022-06-02
 layout: post
 description: ""
 ---
-1.  Following the announcement by Minister for Home Affairs and Minister for Law K Shanmugam SC in his Ministerial Statement on the Review of Sentencing Framework for Sexual and Hurt Offences on 5 March 2021 in Parliament, a Sentencing Advisory Panel (“Panel”) has been established. 
+1. Following the announcement by Minister for Home Affairs and Minister for Law K Shanmugam SC in his Ministerial Statement on the Review of Sentencing Framework for Sexual and Hurt Offences on 5 March 2021 in Parliament, a Sentencing Advisory Panel (“Panel”) has been established. 
  
 2. The key function of the Panel is to formulate and publish guidelines on matters relating to sentencing, to promote greater consistency, transparency and public awareness. 
 
