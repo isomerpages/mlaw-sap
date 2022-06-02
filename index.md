@@ -17,7 +17,7 @@ sections:
           url: /what-we-do/
         - title: Resources
           description: ""
-          url: /resource/
+          url: /resources
         - title: Contact Us
           description: ""
           url: /contact-us
