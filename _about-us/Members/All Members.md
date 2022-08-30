@@ -16,5 +16,5 @@ third_nav_title: Members
 | [Permanent Secretary (Law) Loh Khum Yean](/about-us/Members/Loh-Khum-Yean)    | Ministry of Law     |
 | [Registrar (State Courts) Christopher Tan Pheng Wee](/about-us/Members/Christopher-Tan)    | State Courts     |
 | [District Judge Kow Keng Siong](/about-us/Members/Kow-Keng-Siong)    | State Courts     |
-| [Deputy Commissioner (Investigation & Intelligence) Florence Chua](/about-us/Members/Florence-Chua)    | Singapore Police Force     |		
+| [Deputy Commissioner (Investigation & Intelligence) How Kwang Hwee](/about-us/Members/How-Kwang-Hwee)    | Singapore Police Force     |		
 | [Mr Sunil Sudheesan](/about-us/Members/Sunil-Sudheesan)    | Law Society of Singapore     |
