@@ -4,5 +4,8 @@ links:
     collection: about-us
   - title: Resources
     resource_room: true
+  - title: Sentencing Guidelines
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
