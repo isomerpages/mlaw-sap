@@ -1,6 +1,6 @@
 ---
 title: What We Do
-permalink: /what-we-do
+permalink: /what-we-do/
 description: ""
 ---
 The Sentencing Advisory Panel comprises members from the Judiciary, the Ministry of Law, the Ministry of Home Affairs, the Singapore Police Force, the Attorney-General’s Chambers, and the Bar. Its objective is to promote greater consistency, transparency and public awareness in sentencing.
@@ -14,4 +14,4 @@ The Panel’s guidelines may be cited by the Prosecution or the Defence in their
 
 The Panel is supported by a Secretariat, which acts on the Panel’s instructions.
 
-Click [here](/Sentencing-Guidelines) to access the Panel’s sentencing guidelines.
+Click [here](/Sentencing-Guidelines-and-Information-Notes/) to access the Panel’s sentencing guidelines.
