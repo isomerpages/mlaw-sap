@@ -15,7 +15,7 @@ sections:
         - title: About Us
           description: ""
           url: /what-we-do/
-        - title: Sentencing Guidelines
+        - title: Information Notes
           description: ""
           url: ""
         - title: Resources
