@@ -1,5 +1,5 @@
 title: Sentencing Advisory Panel
-url: ""
+url: https://www.sentencingpanel.gov.sg
 favicon: /images/Blank.png
 colors:
   primary-color: "#56a6b8"
@@ -52,5 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://mlaw-sap-staging.netlify.app
 prod: https://mlaw-sap-prod.netlify.app
-is_government: true
+is_government: false
 shareicon: /images/Blank.png
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
