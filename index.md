@@ -17,7 +17,7 @@ sections:
           url: /what-we-do/
         - title: Information Notes
           description: ""
-          url: ""
+          url: /resources/information-notes
         - title: Resources
           description: ""
           url: /resources
