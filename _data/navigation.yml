@@ -5,9 +5,6 @@ links:
   - title: Resources
     resource_room: true
   - title: Information Notes
-    url: /resources/information-notes
+    url: /resources/information-notes/
   - title: Contact Us
     url: /contact-us/
-  - title: Information Notes
-    url: /resources/information-notes
-    sublinks: []
