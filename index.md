@@ -2,7 +2,7 @@
 layout: homepage
 title: Sentencing Advisory Panel
 description: Brief site description here
-image: /images/Blank.png
+image: /images/Sentencing Advisory Panel Logo.png
 permalink: /
 notification: ""
 sections:
@@ -15,6 +15,9 @@ sections:
         - title: About Us
           description: ""
           url: /what-we-do/
+        - title: Information Notes
+          description: ""
+          url: /resources/information-notes
         - title: Resources
           description: ""
           url: /resources
@@ -25,3 +28,4 @@ sections:
       title: Latest Updates
       button: More Resources
 ---
+
