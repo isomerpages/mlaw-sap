@@ -53,7 +53,7 @@ plugins:
 staging: https://mlaw-sap-staging.netlify.app
 prod: https://mlaw-sap-prod.netlify.app
 is_government: false
-shareicon: /images/Blank.png
+shareicon: /images/Sentencing Advisory Panel Logo.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
