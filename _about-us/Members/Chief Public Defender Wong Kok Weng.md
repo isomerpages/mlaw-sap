@@ -4,12 +4,12 @@ permalink: /about-us/members/wong-kok-weng/
 description: ""
 third_nav_title: Members
 ---
+![](/images/Wong%20Kok%20Weng1.jpg)
 
+ Mr Wong Kok Weng was appointed the Chief Public Defender in December 2022. He oversees the Public Defender’s Office, which provides criminal defence aid for persons with limited means facing non-capital criminal charges.
 
-![](/images/Bio%20photos%20resized2/PS%20Loh.png)
+Mr Wong served as a Magistrate at the then-Subordinate Courts from 1988 to 1991, and as a legal counsel at the Ministry of Defence from 1991 to 2000. From 2000 to 2022, he was a Deputy Public Prosecutor in the Crime Division of the Attorney-General’s Chambers. As a Senior Director, he led a team prosecuting diverse criminal offences.
 
-Mr Loh Khum Yean was appointed Permanent Secretary in the Ministry of Law (MinLaw) in April 2022. He is also concurrently Permanent Secretary of the Public Service Division (PSD).
+In 2013, Mr Wong also chaired an inter-agency committee that looked into providing support for accused persons with mental disorders or intellectual disabilities during the criminal investigation process. The committee’s findings led to the introduction of the Appropriate Adult Scheme in 2015. This scheme was extended to young suspects in 2017. Mr Wong continues to chair the committee overseeing both schemes.
 
-Mr Loh started his career in the Singapore Civil Service with the Ministry of Communications. He later took up appointments as Director of Personnel Policy in PSD, and Director of Research and Planning at the Ministry of Trade and Industry (MTI). 
-
-Mr Loh also served as Deputy Secretary in the Ministry of Finance in 2002, Chief Executive of SPRING Singapore from 2003 to 2008, Deputy Secretary of MTI in 2008, Permanent Secretary of the Ministry of Manpower from 2009 to 2016, Permanent Secretary of MTI from 2016 to 2019, and Permanent Secretary of PSD since 2019. He served concurrently as Permanent Secretary in MinLaw from 2019 to 2020.
+Mr Wong obtained the Public Administration Medal (Bronze) in 1999 and the Long Service Award for 35 years of service in 2021.
