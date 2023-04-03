@@ -4,7 +4,7 @@ permalink: /about-us/members/wong-kok-weng/
 description: ""
 third_nav_title: Members
 ---
-![](/images/cpd%20wong%20kok%20weng%20(1).png)
+![](/images/Bio%20photos%20resized2/cpd%20wong%20kok%20weng.jpg)
 
 Mr Wong Kok Weng was appointed the Chief Public Defender in December 2022. He oversees the Public Defender’s Office, which provides criminal defence aid for persons with limited means facing non-capital criminal charges.
 
