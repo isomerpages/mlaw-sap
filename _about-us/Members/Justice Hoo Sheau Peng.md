@@ -1,6 +1,6 @@
 ---
 title: Justice Hoo Sheau Peng
-permalink: /about-us/Members/Hoo-Sheau-Peng
+permalink: /about-us/members/hoo-sheau-peng/
 description: ""
 third_nav_title: Members
 ---

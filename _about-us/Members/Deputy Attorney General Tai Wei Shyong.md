@@ -1,6 +1,6 @@
 ---
 title: Deputy Attorney General Tai Wei Shyong
-permalink: /about-us/Members/Tai-Wei-Shyong
+permalink: /about-us/members/tai-wei-shyong/
 description: ""
 third_nav_title: Members
 ---

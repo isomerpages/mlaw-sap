@@ -1,6 +1,6 @@
 ---
 title: Justice of the Court of Appeal, Justice Steven Chong (Chairperson of the Panel)
-permalink: /about-us/Members/Steven-Chong
+permalink: /about-us/members/steven-chong/
 description: ""
 third_nav_title: Members
 ---

@@ -1,6 +1,6 @@
 ---
 title: Permanent Secretary (Home Affairs) Pang Kin Keong
-permalink: /about-us/Members/Pang-Kin-Keong
+permalink: /about-us/members/pang-kin-keong/
 description: ""
 third_nav_title: Members
 ---

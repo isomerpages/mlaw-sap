@@ -1,7 +1,7 @@
 ---
 title: Ministerial Statement on the Review of Sentencing Framework for Sexual
   and Hurt Offences
-permalink: /resources/speeches/permalink
+permalink: /resources/speeches/permalink/
 date: 2021-03-05
 layout: post
 description: ""

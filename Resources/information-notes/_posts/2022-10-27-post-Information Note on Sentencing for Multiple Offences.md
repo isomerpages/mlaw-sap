@@ -1,6 +1,6 @@
 ---
 title: Information Note on Sentencing for Multiple Offences
-permalink: /resources/information-notes/Sentencing-For-Multiple-Offences/
+permalink: /resources/information-notes/sentencing-for-multiple-offences/
 date: 2022-10-27
 layout: post
 description: ""

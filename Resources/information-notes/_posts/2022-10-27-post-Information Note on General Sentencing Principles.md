@@ -1,6 +1,6 @@
 ---
 title: Information Note on General Sentencing Principles
-permalink: /resources/information-notes/General-Sentencing-Principles/
+permalink: /resources/information-notes/general-sentencing-principles/
 date: 2022-10-27
 layout: post
 description: ""

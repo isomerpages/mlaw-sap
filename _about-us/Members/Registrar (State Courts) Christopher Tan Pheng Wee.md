@@ -1,6 +1,6 @@
 ---
 title: Registrar (State Courts) Christopher Tan Pheng Wee
-permalink: /about-us/Members/Christopher-Tan
+permalink: /about-us/members/christopher-tan/
 description: ""
 third_nav_title: Members
 ---
