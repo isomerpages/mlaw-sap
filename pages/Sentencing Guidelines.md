@@ -1,6 +1,6 @@
 ---
 title: Sentencing Guidelines
-permalink: /Sentencing-Guidelines/
+permalink: /sentencing-guidelines/
 description: ""
 ---
 

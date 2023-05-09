@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://mlaw-sap-staging.netlify.app
-prod: https://mlaw-sap-prod.netlify.app
+staging: https://staging.dsv5tnbgxjrt2.amplifyapp.com/
+prod: https://master.dsv5tnbgxjrt2.amplifyapp.com/
 is_government: false
 shareicon: /images/Sentencing Advisory Panel Logo.png
 facebook-pixel: ""

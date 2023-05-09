@@ -1,6 +1,6 @@
 ---
 title: Second Minister for Law Edwin Tong
-permalink: /about-us/Members/Edwin-Tong
+permalink: /about-us/members/edwin-tong/
 description: ""
 third_nav_title: Members
 ---

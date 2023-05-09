@@ -1,6 +1,6 @@
 ---
 title: Justice See Kee Oon
-permalink: /about-us/Members/See-Kee-Oon
+permalink: /about-us/members/see-kee-oon/
 description: ""
 third_nav_title: Members
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mr Sunil Sudheesan
-permalink: /about-us/Members/Sunil-Sudheesan
+permalink: /about-us/members/sunil-sudheesan/
 description: ""
 third_nav_title: Members
 ---

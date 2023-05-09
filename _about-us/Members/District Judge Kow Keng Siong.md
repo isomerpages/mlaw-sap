@@ -1,6 +1,6 @@
 ---
 title: District Judge Kow Keng Siong
-permalink: /about-us/Members/Kow-Keng-Siong
+permalink: /about-us/members/kow-keng-siong/
 description: ""
 third_nav_title: Members
 ---

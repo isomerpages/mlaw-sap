@@ -1,6 +1,6 @@
 ---
 title: Deputy Commissioner (Investigation & Intelligence) How Kwang Hwee
-permalink: /about-us/Members/How-Kwang-Hwee/
+permalink: /about-us/members/how-kwang-hwee/
 description: ""
 third_nav_title: Members
 ---

@@ -1,6 +1,6 @@
 ---
 title: Justice Vincent Hoong
-permalink: /about-us/Members/Vincent-Hoong
+permalink: /about-us/members/vincent-hoong/
 description: ""
 third_nav_title: Members
 ---
