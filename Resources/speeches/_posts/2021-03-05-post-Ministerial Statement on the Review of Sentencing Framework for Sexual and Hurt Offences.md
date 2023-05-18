@@ -186,5 +186,5 @@ Such acts must be seen as penalising a gross violation of fundamental values in 
 
 Society needs to play its part as well to unequivocally repudiate sexual and hurt offences as violations of fundamental values. Collectively, with the right laws and policies, and more importantly, with the right societal mindset in place, we can move towards being a society that fully lives up to our values.
 
-[Annex 1](/files/annex-1-overview-of-amendments-relating-to-hurt-and-sexual-offences.pdf)
+[Annex 1]()
 [Annex 2](/files/annex-2-range-of-penalties-for-sexual-and-hurt-offences.pdf)
