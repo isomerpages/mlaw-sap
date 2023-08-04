@@ -8,4 +8,4 @@ image: ""
 ---
 The Guidelines on Reduction in Sentences for Guilty Pleas aim to set out clearly the reduction in sentence a court ought to consider based on when an accused person pleads guilty.
 
-The Guidelines on Reduction in Sentences for Guilty Pleas are accessible 
+The Guidelines on Reduction in Sentences for Guilty Pleas are accessible [here](/files/Guidelines/guidelines%20on%20reduction%20in%20sentences%20for%20guilty%20pleas.pdf).
