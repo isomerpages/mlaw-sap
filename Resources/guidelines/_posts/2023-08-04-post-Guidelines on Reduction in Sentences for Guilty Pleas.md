@@ -6,6 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-The Guidelines on Reduction in Sentences for Guilty Pleas provides ...
+The Guidelines on Reduction in Sentences for Guilty Pleas provide ...
 
-The Information Note on General Sentencing Principles is accessible [here]
+The Guidelines on Reduction in Sentences for Guilty Pleas are accessible [here]
