@@ -18,12 +18,12 @@ sections:
         - title: Information Notes
           description: ""
           url: /Resources/information-notes/
+        - title: Guidelines
+          description: ""
+          url: /guidelines/
         - title: Resources
           description: ""
           url: /Resources/
-        - title: Contact Us
-          description: ""
-          url: /contact-us
   - resources:
       title: Latest Updates
       button: More Resources
