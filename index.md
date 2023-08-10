@@ -20,7 +20,7 @@ sections:
           url: /Resources/information-notes/
         - title: Guidelines
           description: ""
-          url: /guidelines/
+          url: /Resources/guidelines/
         - title: Resources
           description: ""
           url: /Resources/
