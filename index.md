@@ -17,10 +17,10 @@ sections:
           url: /what-we-do/
         - title: Information Notes
           description: ""
-          url: /resources/information-notes
+          url: /Resources/information-notes/
         - title: Resources
           description: ""
-          url: /resources
+          url: /Resources/
         - title: Contact Us
           description: ""
           url: /contact-us
@@ -28,4 +28,3 @@ sections:
       title: Latest Updates
       button: More Resources
 ---
-
