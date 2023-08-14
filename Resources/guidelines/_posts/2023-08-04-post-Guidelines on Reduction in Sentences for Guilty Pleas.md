@@ -12,4 +12,4 @@ The Guidelines are intended to encourage accused persons who wish to plead guilt
 
 Currently, accused persons already receive a reduction in sentence, in appropriate cases, if they plead guilty. The Guidelines aim to provide greater consistency, clarity and transparency to this existing practice, by setting out clearly the ranges of reduction in sentence that a court may consider granting based on when an accused person pleads guilty. Generally, the earlier the accused person decides to plead guilty, the greater the reduction in sentence that may be applied.
 
-The Guidelines are accessible [here](/files/Guidelines/guidelines%20on%20reduction%20in%20sentences%20for%20guilty%20pleas.pdf).
+The Guidelines can be accessed [here](/files/Guidelines/guidelines%20on%20reduction%20in%20sentences%20for%20guilty%20pleas.pdf).
