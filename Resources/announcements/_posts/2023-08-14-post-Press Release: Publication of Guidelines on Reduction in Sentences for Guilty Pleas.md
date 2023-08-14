@@ -27,7 +27,7 @@ image: ""
 
 7. The PG Guidelines are not meant to encourage accused persons, who otherwise wish to claim trial, to plead guilty. Every accused person has the right to assert his innocence and to claim trial, and may seek legal advice on whether to plead guilty.
 
-8. The PG Guidelines can be accessed at [link](/resources/guidelines/guilty-pleas/).
+8. The PG Guidelines can be accessed at [link](/resources/guidelines/guilty-pleas).
 
 **SENTENCING ADVISORY PANEL**  
 **15 AUGUST 2023**
