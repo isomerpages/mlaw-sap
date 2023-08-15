@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-The inter-agency Sentencing Advisory Panel ("**Panel**") has published the Guidelines on Reduction in Sentences for Guilty Pleas ("**PG Guidelines**). Parties may raise the PG Guidelines in their submissions to the court from **1 October 2023**.
+The inter-agency Sentencing Advisory Panel ("**Panel**") has published the Guidelines on Reduction in Sentences for Guilty Pleas ("**PG Guidelines**"). Parties may raise the PG Guidelines in their submissions to the court from **1 October 2023**.
 
 The PG Guidelines are intended to encourage accused persons who wish to plead guilty to do so as early in the court process as possible. There are significant benefits to this, especially for victims. An early guilty plea by an accused person allows victims to find closure sooner, and spares victims and witnesses the need to prepare for a trial and to testify in court. It also allows for a faster resolution of cases.
 
