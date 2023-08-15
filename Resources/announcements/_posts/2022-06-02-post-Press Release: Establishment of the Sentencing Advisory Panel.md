@@ -1,9 +1,10 @@
 ---
 title: "Press Release: Establishment of the Sentencing Advisory Panel"
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/press-release-establishment/
 date: 2022-06-02
 layout: post
 description: ""
+image: ""
 ---
 1. Following the announcement by Minister for Home Affairs and Minister for Law K Shanmugam SC in his Ministerial Statement on the Review of Sentencing Framework for Sexual and Hurt Offences on 5 March 2021 in Parliament, a Sentencing Advisory Panel (“Panel”) has been established. 
  

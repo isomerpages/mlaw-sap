@@ -14,4 +14,4 @@ The Panel’s guidelines may be cited by the Prosecution or the Defence in their
 
 The Panel is supported by a Secretariat, which acts on the Panel’s instructions.
 
-Click [here](/sentencing-guidelines) to access the Panel’s sentencing guidelines.
+Click [here](/Resources/guidelines) to access the Panel’s sentencing guidelines.

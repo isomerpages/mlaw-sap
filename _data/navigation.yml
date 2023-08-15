@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Resources
     resource_room: true
+  - title: Guidelines
+    url: /Resources/guidelines
   - title: Information Notes
     url: /Resources/information-notes/
   - title: Contact Us
