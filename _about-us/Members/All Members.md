@@ -12,9 +12,9 @@ third_nav_title: Members
 | [Justice Hoo Sheau Peng](/about-us/members/hoo-sheau-peng)    | Supreme Court     |
 | [Justice Vincent Hoong](/about-us/members/vincent-hoong)    | Supreme Court     |
 | [Deputy Attorney-General Tai Wei Shyong](/about-us/members/tai-wei-shyong)    | Attorney-General's Chambers     |
-| [Permanent Secretary (Home Affairs) Pang Kin Keong](/about-us/members/Pang-Kin-Keong)    | Ministry of Home Affairs     |
+| [Permanent Secretary (Home Affairs) Pang Kin Keong](/about-us/members/pang-kin-keong)    | Ministry of Home Affairs     |
 | [Chief Public Defender Wong Kok Weng](/about-us/members/wong-kok-weng/)    | Ministry of Law     |
-| [Registrar (State Courts) Christopher Tan Pheng Wee](/about-us/members/Christopher-Tan)    | State Courts     |
+| [Registrar (State Courts) Christopher Tan Pheng Wee](/about-us/members/christopher-tan)    | State Courts     |
 | [District Judge Kow Keng Siong](/about-us/members/kow-keng-siong)    | State Courts     |
-| [Deputy Commissioner (Investigation & Intelligence) How Kwang Hwee](/about-us/members/How-Kwang-Hwee)    | Singapore Police Force     |		
+| [Deputy Commissioner (Investigation & Intelligence) How Kwang Hwee](/about-us/members/how-kwang-hwee)    | Singapore Police Force     |		
 | [Mr Sunil Sudheesan](/about-us/members/sunil-sudheesan)    | Law Society of Singapore     |
