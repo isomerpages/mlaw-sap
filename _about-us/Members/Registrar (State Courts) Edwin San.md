@@ -4,7 +4,7 @@ permalink: /about-us/members/edwin-san/
 description: ""
 third_nav_title: Members
 ---
-![](/images/edwin%20san.jpg)
+![](/images/reg%20edwin%20san%20(resized).jpg)
 
 Mr Edwin San was appointed Registrar of the State Courts in 2023. He is currently also a District Judge as well as the Deputy President of the Copyright Tribunal.
 
