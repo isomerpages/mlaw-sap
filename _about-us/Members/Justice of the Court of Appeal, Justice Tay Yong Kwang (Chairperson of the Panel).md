@@ -5,7 +5,6 @@ permalink: /about-us/members/tay-yong-kwang/
 description: ""
 third_nav_title: Members
 ---
-
 ![](/images/tay%20yong%20kwang.jpg)
 
 Justice Tay Yong Kwang was appointed Judge of Appeal of the Supreme Court (since re-designated Justice of the Court of Appeal) on 1 August 2016.
