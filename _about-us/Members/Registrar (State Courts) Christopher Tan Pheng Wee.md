@@ -4,12 +4,10 @@ permalink: /about-us/members/christopher-tan/
 description: ""
 third_nav_title: Members
 ---
+![](/images/edwin%20san.jpg)
 
+Mr Edwin San was appointed Registrar of the State Courts in 2023. He is currently also a District Judge as well as the Deputy President of the Copyright Tribunal.
 
-![](/images/Bio%20photos%20resized2/DJ%20Tan.png)
+Mr San served in the Attorney-General’s Chambers as a Deputy Public Prosecutor from 1999 to 2013, and as an Assistant Registrar in the Supreme Court from 2013 to 2016. From 2016 to 2023, he was a Senior Assistant Registrar in the Supreme Court, where he was led the Crime Advisory portfolio as well as the Shipping, Intellectual Property and Information Technology Hearing Cluster. He was also involved in the Secretariats for the Disciplinary Tribunal, Professional Conduct Council, and IP Dispute Resolution Framework Committee.
 
-Mr Christopher Tan was appointed as Registrar of the State Courts in 2020. 
-
-He joined the Legal Service in 1999 as a Justices’ Law Clerk. He then served as a Magistrate in the Subordinate Courts, before joining the Attorney-General’s Chambers as a Deputy Public Prosecutor. In 2005, Mr Tan was posted to the Competition Commission of Singapore, where he served as the Director of the Mergers Unit and subsequently as one of the Directors of the Legal and Enforcement Division. In 2009, Mr Tan was appointed as the Director of Enforcement in the Capital Markets Division at the Monetary Authority of Singapore, and subsequently as the Executive Director of the Investment Intermediaries Department. In 2014, he joined the Supreme Court as a Senior Assistant Registrar. In 2019, he joined the State Courts as a District Judge in the Criminal Justice Division. 
-
-Mr Tan was awarded the Public Administration Medal (Silver) in 2011.  
+Mr San obtained the Public Administration Medal (Silver) in 2020, and the Long Service Medal for 25 years of service in 2022.
