@@ -1,0 +1,12 @@
+logo: /images/Sentencing Advisory Panel Logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Resources
+    resource_room: true
+  - title: Guidelines
+    url: /Resources/guidelines
+  - title: Information Notes
+    url: /Resources/information-notes/
+  - title: Contact Us
+    url: /contact-us/
