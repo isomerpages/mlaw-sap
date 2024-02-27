@@ -2,8 +2,10 @@
 title: Justice of the Court of Appeal, Justice Tay Yong Kwang (Chairperson of
   the Panel)
 permalink: /about-us/members/tay-yong-kwang/
-description: ""
+description: Justice Tay Yong Kwang was appointed Judge of Appeal of the Supreme
+  Court (since re-designated Justice of the Court of Appeal) on 1 August 2016.
 third_nav_title: Members
+variant: tiptap
 ---
 ![](/images/jca%20tay%20yong%20kwang%20(resized).jpg)
 

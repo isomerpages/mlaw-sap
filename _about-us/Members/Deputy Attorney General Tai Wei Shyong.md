@@ -1,13 +1,11 @@
 ---
 title: Deputy Attorney General Tai Wei Shyong
 permalink: /about-us/members/tai-wei-shyong/
-description: ""
+description: "Deputy Attorney-General (DAG) Tai Wei Shyong assumed his present
+  office on 1 January 2021. "
 third_nav_title: Members
+variant: tiptap
 ---
-
-
-
-
 ![](/images/Bio%20photos%20resized2/DAG%20Tai.png)
 
 Deputy Attorney-General (DAG) Tai Wei Shyong assumed his present office on 1 January 2021. 

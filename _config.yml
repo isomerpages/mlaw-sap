@@ -2,7 +2,7 @@ title: Sentencing Advisory Panel
 url: https://www.sentencingpanel.gov.sg
 favicon: /images/Sentencing Advisory Panel Logo.png
 colors:
-  primary-color: "#56a6b8"
+  primary-color: "#006d65"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
@@ -57,3 +57,4 @@ shareicon: /images/Sentencing Advisory Panel Logo.png
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""

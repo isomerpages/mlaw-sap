@@ -1,8 +1,9 @@
 ---
 title: Chief Public Defender Wong Kok Weng
 permalink: /about-us/members/wong-kok-weng/
-description: ""
+description: "Mr Wong Kok Weng was appointed the Chief Public Defender in December 2022. "
 third_nav_title: Members
+variant: tiptap
 ---
 ![](/images/Bio%20photos%20resized2/cpd%20wong.png)
 

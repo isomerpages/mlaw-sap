@@ -1,11 +1,12 @@
 ---
 title: Justice Vincent Hoong
 permalink: /about-us/members/vincent-hoong/
-description: ""
+description: "Justice Vincent Hoong was appointed Judicial Commissioner on 10
+  April 2019 and a High Court Judge on 3 January 2020; he is concurrently the
+  Presiding Judge of the State Courts. "
 third_nav_title: Members
+variant: tiptap
 ---
-
-
 ![](/images/Bio%20photos%20resized2/Hoong%20J.png)
 
 Justice Vincent Hoong was appointed Judicial Commissioner on 10 April 2019 and a High Court Judge on 3 January 2020; he is concurrently the Presiding Judge of the State Courts. 

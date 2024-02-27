@@ -1,8 +1,11 @@
 ---
 title: Deputy Commissioner (Investigation & Intelligence) How Kwang Hwee
 permalink: /about-us/members/how-kwang-hwee/
-description: ""
+description: Mr How Kwang Hwee assumed the role of Deputy Commissioner
+  (Investigation & Intelligence) concurrent Director Criminal Investigation
+  Department of the Singapore Police Force (SPF), in August 2022.
 third_nav_title: Members
+variant: tiptap
 ---
 ![](/images/Bio%20photos%20resized2/DC%20How.png)
 

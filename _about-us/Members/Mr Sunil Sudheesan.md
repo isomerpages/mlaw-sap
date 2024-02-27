@@ -1,11 +1,13 @@
 ---
 title: Mr Sunil Sudheesan
 permalink: /about-us/members/sunil-sudheesan/
-description: ""
+description: "Mr Sunil Sudheesan is the Head of Quahe Woo & Palmer LLC’s
+  Criminal Law Practice Department. He is also the President of the Association
+  of Criminal Lawyers of Singapore, and a member of the Council of the Law
+  Society of Singapore. "
 third_nav_title: Members
+variant: tiptap
 ---
-
-
 ![](/images/Bio%20photos%20resized2/Mr%20Sudheesan.png)
 
 Mr Sunil Sudheesan is the Head of Quahe Woo & Palmer LLC’s Criminal Law Practice Department. He is also the President of the Association of Criminal Lawyers of Singapore, and a member of the Council of the Law Society of Singapore. 

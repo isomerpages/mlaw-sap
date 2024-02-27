@@ -1,12 +1,12 @@
 ---
 title: Second Minister for Law Edwin Tong
 permalink: /about-us/members/edwin-tong/
-description: ""
+description: "Second Minister Edwin Tong was appointed as Senior Minister of
+  State for Law in July 2018, and as Second Minister for Law and Minister for
+  Culture, Community and Youth in July 2020.  "
 third_nav_title: Members
+variant: tiptap
 ---
-
-
-
 ![](/images/Bio%20photos%20resized2/2M%20Tong.png)
 
 Second Minister Edwin Tong was appointed as Senior Minister of State for Law in July 2018, and as Second Minister for Law and Minister for Culture, Community and Youth in July 2020.  

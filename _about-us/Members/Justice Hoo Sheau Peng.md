@@ -1,11 +1,11 @@
 ---
 title: Justice Hoo Sheau Peng
 permalink: /about-us/members/hoo-sheau-peng/
-description: ""
+description: Justice Hoo Sheau Peng was appointed Judicial Commissioner on 30
+  September 2014 and a High Court Judge on 30 September 2017.
 third_nav_title: Members
+variant: tiptap
 ---
-
-
 ![](/images/Bio%20photos%20resized2/Hoo%20J.png)
 
 Justice Hoo Sheau Peng was appointed Judicial Commissioner on 30 September 2014 and a High

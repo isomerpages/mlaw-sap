@@ -1,11 +1,11 @@
 ---
 title: Permanent Secretary (Home Affairs) Pang Kin Keong
 permalink: /about-us/members/pang-kin-keong/
-description: ""
+description: Mr Pang Kin Keong was appointed as the Permanent Secretary of the
+  Ministry of Home Affairs in September 2017.
 third_nav_title: Members
+variant: tiptap
 ---
-
-
 ![](/images/Bio%20photos%20resized2/PS%20Pang.png)
 
 Mr Pang Kin Keong was appointed as the Permanent Secretary of the Ministry of Home Affairs in September 2017.
