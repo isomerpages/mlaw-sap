@@ -13,13 +13,11 @@ variant: tiptap
 <p>Mr Toh was appointed as District Judge in the State Courts in 2005, and
 served as Registrar from 2005 to 2008. He was appointed Principal District
 Judge in 2020.</p>
-<p></p>
 <p>Mr Toh served as a Justices’ Law Clerk from 1992 to 1994, before joining
 the Attorney-General’s Chambers as a State Counsel and Deputy Public Prosecutor
 from 1995 to 2000. From 2000 to 2005, he was a Senior Assistant Registrar
 at the Supreme Court. Mr Toh was also the Chief Executive and Commissioner
 of the Competition and Consumer Commission of Singapore from 2013 to 2019.</p>
-<p></p>
 <p>He has served on various tribunals including the Criminal Legal Assistance
 Steering Committee, the Adult Probation Case Committee, the Disciplinary
 Commission appointed under the Medical Registration Act, the Military Court
