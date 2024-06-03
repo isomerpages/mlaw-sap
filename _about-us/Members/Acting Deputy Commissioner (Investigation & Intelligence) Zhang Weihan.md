@@ -1,9 +1,9 @@
 ---
 title: Acting Deputy Commissioner (Investigation & Intelligence) Zhang Weihan
 permalink: /about-us/members/zhang-weihan/
-description: "Mr Zhang assumed the role of Acting Deputy Commissioner
+description: Mr Zhang assumed the role of Acting Deputy Commissioner
   (Investigation & Intelligence) and Director of Criminal Investigation
-  Department (CID) of the Singapore (SPF) in May 2024. "
+  Department (CID) of the Singapore (SPF) in May 2024.
 third_nav_title: Members
 variant: tiptap
 ---
