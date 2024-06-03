@@ -1,15 +1,15 @@
 ---
 title: Principal District Judge Toh Han Li
 permalink: /about-us/members/toh-han-li/
-description: "Mr Toh was appointed as District Judge in the State Courts in
-  2005, and served as Registrar from 2005 to 2008. "
+description: Mr Toh was appointed as District Judge in the State Courts in 2005,
+  and served as Registrar from 2005 to 2008.
 third_nav_title: Members
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio%20photos%20resized2/DJ%20Kow.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio photos resized/Toh_Han_Li__resized_.jpg">
+</div>
 <p>Mr Toh was appointed as District Judge in the State Courts in 2005, and
 served as Registrar from 2005 to 2008. He was appointed Principal District
 Judge in 2020.</p>
