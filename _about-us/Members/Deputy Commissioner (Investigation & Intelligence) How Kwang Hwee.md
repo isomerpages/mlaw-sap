@@ -7,8 +7,19 @@ description: Mr How Kwang Hwee assumed the role of Deputy Commissioner
 third_nav_title: Members
 variant: tiptap
 ---
-![](/images/Bio%20photos%20resized2/DC%20How.png)
-
-Mr How Kwang Hwee assumed the role of Deputy Commissioner (Investigation & Intelligence) concurrent Director Criminal Investigation Department of the Singapore Police Force (SPF), in August 2022. He oversees the investigation of all major and specialised crimes in Singapore, and advances investigation and intelligence policies and capabilities in the SPF. Mr How holds the rank of Deputy Commissioner of Police.
-
-Mr How joined the Singapore Civil Service in 1998. He has spent about 24 years in the Singapore Civil Service and has served in the SPF, Ministry of Trade & Industry, and Ministry of Home Affairs (MHA). Prior to his current role, he was the Commander of Bedok Police Division from 2011 to 2013, and Senior Director (Policy Development Division) at the MHA from 2015 to 2017. He also served as the Director Operations in the SPF from 2017 to 2020, where he was in charge of the formulation of Police operational policies, reviews and the execution of Police operations.
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio photos resized/DC_Zhang.jpg">
+</div>
+<p>Mr Zhang assumed the role of Acting Deputy Commissioner (Investigation
+&amp; Intelligence) and Director of Criminal Investigation Department (CID)
+of the Singapore (SPF) in May 2024. He oversees the investigation of all
+major and specialised crimes in Singapore, and advances investigation and
+intelligence policies and capabilities in the SPF.</p>
+<p></p>
+<p>Mr Zhang has served the Singapore Civil Service for more than 23 years,
+including with the SPF, Ministry of Home Affairs and Ministry of Trade
+and Industry. Prior to his current appointment, he served as Director of
+the Police Intelligence Department from 2022 to 2024, Deputy Director of
+CID from 2020 to 2022 and Commander of Ang Mo Kio Police Division from
+2017 to 2020.</p>
