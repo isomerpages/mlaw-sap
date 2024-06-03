@@ -6,14 +6,25 @@ description: Mr Kow Keng Siong was appointed as a District Judge in the State
 third_nav_title: Members
 variant: tiptap
 ---
-![](/images/Bio%20photos%20resized2/DJ%20Kow.png)
-
-Mr Kow Keng Siong was appointed as a District Judge in the State Courts in 2021. 
-
-Mr Kow was a Deputy Public Prosecutor from 1993 to 1999, and served as a District Judge from 1999 to 2008. 
-
-From 2008 to 2015, Mr Kow was a Senior State Counsel with the International Affairs Division of the Attorney-General’s Chambers. He was appointed a Deputy Chief Prosecutor in 2015, and a Chief Prosecutor in 2017.
-
-Mr Kow is the author of *Sentencing Principles in Singapore* (2009 and 2019), co-editor of *Evidence in Criminal Trials* (2002), and contributor to *Sentencing Practice in the Subordinate Courts* (2000). He is also a member of the Singapore Medical Council Disciplinary Tribunal.
-
-He was awarded the Public Administration Award (Bronze) in 2004 and the Public Administration Award (Silver) in 2017.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio%20photos%20resized2/DJ%20Kow.png">
+</div>
+<p></p>
+<p>Mr Toh was appointed as District Judge in the State Courts in 2005, and
+served as Registrar from 2005 to 2008. He was appointed Principal District
+Judge in 2020.</p>
+<p></p>
+<p>Mr Toh served as a Justices’ Law Clerk from 1992 to 1994, before joining
+the Attorney-General’s Chambers as a State Counsel and Deputy Public Prosecutor
+from 1995 to 2000. From 2000 to 2005, he was a Senior Assistant Registrar
+at the Supreme Court. Mr Toh was also the Chief Executive and Commissioner
+of the Competition and Consumer Commission of Singapore from 2013 to 2019.</p>
+<p></p>
+<p>He has served on various tribunals including the Criminal Legal Assistance
+Steering Committee, the Adult Probation Case Committee, the Disciplinary
+Commission appointed under the Medical Registration Act, the Military Court
+of Appeal, the Copyright Tribunal, the Foreign Manpower Appeal Board, and
+the Appeals Advisory Panel to the Monetary Authority of Singapore.</p>
+<p></p>
+<p>Mr Toh was awarded the Public Administration Medal (Silver) in 2010, and
+the Long Service Medal in 2016.</p>
