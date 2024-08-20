@@ -73,7 +73,6 @@ of the CDSA</p>
 </p>
 <p>[Prescribed punishment: up to $50,000 fine, or up to 3 years’ imprisonment,
 or both]</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +119,6 @@ criminal benefits – punishable under section 51(1) of the CDSA</p>
 </p>
 <p>[Prescribed punishment: up to $500,000 fine, or up to 10 years’ imprisonment,
 or both]</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
