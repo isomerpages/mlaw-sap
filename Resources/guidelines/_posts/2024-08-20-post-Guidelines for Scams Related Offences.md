@@ -42,6 +42,6 @@ offences involving the handing over of bank accounts or the disclosure
 of Singpass credentials. This recommendation applies to all offenders (even
 young offenders below the age of 21), except juvenile offenders dealt with
 in the Youth Court.</p>
-<p>The Guidelines can be accessed [here].</p>
+<p><a href="/files/Guidelines/Guidelines_For_Scams_Related_Offences.pdf" rel="noopener noreferrer nofollow" target="_blank">The Guidelines can be accessed here</a>.</p>
 <p></p>
 <p></p>
