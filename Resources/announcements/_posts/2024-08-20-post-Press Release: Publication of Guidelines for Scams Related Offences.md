@@ -164,7 +164,7 @@ are elderly or unable to protect themselves due to physical or mental infirmity,
 significant enhancements of at least 25% of the starting sentence are recommended.
 This is to recognise the devastating impact that scams have on vulnerable
 victims.</p>
-<p>The Guidelines can be accessed at <a href="https://www.sentencingpanel.gov.sg/scams-related-offences/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p>The Guidelines can be accessed at <a href="https://www.sentencingpanel.gov.sg/guidelines-for-scams-related-offences/" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <p><strong>SENTENCING ADVISORY PANEL</strong>
 <br><strong>21 AUGUST 2024</strong>
 </p>
