@@ -37,7 +37,6 @@ offenders (even young offenders below the age of 21), except juvenile offenders
 dealt with in the Youth Court.</p>
 <p>The Guidelines propose the following starting sentences for such scams-related
 offences:</p>
-<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -158,7 +157,6 @@ to 5 years imprisonment, or both]</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>The Guidelines also recommend that the sentence may be further enhanced
 if there are aggravating factors, such as if a vulnerable victim was involved,
 if significant amounts of $100,000 or more had passed through the account
