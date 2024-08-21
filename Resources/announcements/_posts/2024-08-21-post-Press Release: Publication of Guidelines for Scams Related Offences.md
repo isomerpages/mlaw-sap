@@ -179,5 +179,5 @@ are not binding on any court.</p>
 <p></p>
 <p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> These
 offences came into force on 8 February 2024. More information about the
-CDSA and CMA can be found at <a href="https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/" rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/.</a>
+CDSA and CMA amendments can be found at <a href="https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/" rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/.</a>
 </p>
