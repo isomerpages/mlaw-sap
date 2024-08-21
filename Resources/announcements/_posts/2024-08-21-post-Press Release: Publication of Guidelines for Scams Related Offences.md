@@ -8,9 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>The inter-agency Sentencing Advisory Panel (“<strong>Panel</strong>”)
-has published the Guidelines for Scams-Related Offences (“<strong>the Guidelines</strong>”).
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>Parties may raise the Guidelines in their submissions to the court
-with immediate effect.</p>
+has published the Guidelines for Scams-Related Offences (“<strong>the Guidelines</strong>”).<sup>[1]</sup> Parties
+may raise the Guidelines in their submissions to the court with immediate
+effect.</p>
 <h4><strong>Background</strong></h4>
 <p>Scams are a major and fast-growing concern:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Over the past five years,
@@ -22,11 +22,11 @@ lost by scam victims in 2023 alone was $651.8 million.</p>
 <p>To combat the growing menace posed by scams, Parliament introduced new
 offences under the Corruption, Drug Trafficking and Other Serious Crimes
 (Confiscation of Benefits) Act 1992 (“<strong>CDSA</strong>”) and Computer
-Misuse Act 1993 (“<strong>CMA</strong>”) in 2023.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> The new CDSA and CMA offences target a critical component
-of the operation of scam syndicates – persons in Singapore who hand over
-control of their bank accounts or who disclose Singpass credentials to
-others, who are then able to use these accounts and credentials to commit
-scams and launder scam proceeds.</p>
+Misuse Act 1993 (“<strong>CMA</strong>”) in 2023.<sup>[2]</sup> The new
+CDSA and CMA offences target a critical component of the operation of scam
+syndicates – persons in Singapore who hand over control of their bank accounts
+or who disclose Singpass credentials to others, who are then able to use
+these accounts and credentials to commit scams and launder scam proceeds.</p>
 <h4><strong>Guidelines</strong></h4>
 <p>The Guidelines aim to provide clarity on how the new CDSA and CMA offences
 should be sentenced. To send a strong deterrent signal, the Guidelines
@@ -170,14 +170,12 @@ victims.</p>
 </p>
 <p></p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Guidelines
-established by the Panel are meant to guide judges in passing sentences
-in criminal cases, guide the prosecution and defence in their sentencing
-submissions, as well as assist accused persons in making decisions in criminal
-proceedings, and defence counsel in advising their clients. The guidelines
-are not binding on any court.</p>
+<p><sup>[1]</sup> Guidelines established by the Panel are meant to guide judges
+in passing sentences in criminal cases, guide the prosecution and defence
+in their sentencing submissions, as well as assist accused persons in making
+decisions in criminal proceedings, and defence counsel in advising their
+clients. The guidelines are not binding on any court.</p>
 <p></p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> These
-offences came into force on 8 February 2024. More information about the
-CDSA and CMA amendments can be found at <a href="https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/" rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/.</a>
+<p><sup>[2]</sup> These offences came into force on 8 February 2024. More
+information about the CDSA and CMA amendments can be found at <a href="https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/" rel="noopener noreferrer nofollow" target="_blank">https://www.mha.gov.sg/mediaroom/press-releases/amendments-to-the-corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act-and-the-computer-misuse-act/.</a>
 </p>
