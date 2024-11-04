@@ -7,8 +7,9 @@ description: Second Minister Edwin Tong was appointed as Senior Minister of
 third_nav_title: Members
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio%20photos%20resized2/2M%20Tong.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MOS_Law_SAP.jpg">
 </div>
 <p>Minister of State Murali Pillai was appointed as Minister of State for
 Law and Transport in 2024.&nbsp;&nbsp;</p>
