@@ -8,7 +8,7 @@ variant: markdown
 | Members | Organisation | 
 | -------- | -------- | 
 | [Justice of the Court of Appeal, Justice Tay Yong Kwang (Chairperson)](/about-us/members/tay-yong-kwang)    | Supreme Court     |
-| [Second Minister for Law Mr Edwin Tong, SC](/about-us/members/edwin-tong)    | Ministry of Law     |
+| [Minister of State for Law Murali Pillai](/about-us/members/murai-pillai/) | Ministry of Law     |
 | [Judge of the Appellate Division, Justice See Kee Oon](/about-us/members/see-kee-oon)    | Supreme Court     |
 | [Justice Hoo Sheau Peng](/about-us/members/hoo-sheau-peng)    | Supreme Court     |
 | [Justice Vincent Hoong](/about-us/members/vincent-hoong)    | Supreme Court     |
