@@ -9,5 +9,5 @@ contacts:
       - phone: ""
       - email: MLAW-SAP_Secretariat@mlaw.gov.sg
       - other: ""
-    title: ""
+    title: Email
 ---
