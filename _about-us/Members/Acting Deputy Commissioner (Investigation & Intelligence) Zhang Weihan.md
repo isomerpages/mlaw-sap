@@ -11,11 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bio photos resized/DC_Zhang.jpg">
 </div>
-<p>Mr Zhang assumed the role of Acting Deputy Commissioner (Investigation
-&amp; Intelligence) and Director of Criminal Investigation Department (CID)
-of the Singapore Police Force (SPF) in May 2024. He oversees the investigation
-of all major and specialised crimes in Singapore, and advances investigation
-and intelligence policies and capabilities in the SPF.</p>
+<p>Mr Zhang assumed the role of Deputy Commissioner (Investigation &amp;
+Intelligence) and Director of Criminal Investigation Department (CID) of
+the Singapore Police Force (SPF) in April 2025, after serving as Acting
+Deputy Commissioner since May 2024. He oversees the investigation of all
+major and specialised crimes in Singapore, and advances investigation and
+intelligence policies and capabilities in the SPF.</p>
 <p></p>
 <p>Mr Zhang has served the Singapore Civil Service for more than 23 years,
 including with the SPF, Ministry of Home Affairs and Ministry of Trade
