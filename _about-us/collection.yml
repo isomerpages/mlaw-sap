@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - What We Do.md
+      - Members/Justice Vincent Hoong.md
       - Members/.keep
       - Members/All Members.md
       - Members/Justice of the Court of Appeal, Justice Tay Yong Kwang
