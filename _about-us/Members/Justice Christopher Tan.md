@@ -9,7 +9,7 @@ description: Justice Christopher Tan Pheng Wee was appointed Judicial
 third_nav_title: Members
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Justice_Christopher_Tan.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Justice_Christopher_Tan.png">
 </div>
 <p>Justice Christopher Tan Pheng Wee was appointed Judicial Commissioner
 of the Supreme Court on 1 October 2023 and appointed Judge of the High
