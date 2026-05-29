@@ -13,7 +13,7 @@ variant: markdown
 | [Justice Hoo Sheau Peng](/about-us/members/hoo-sheau-peng)    | Supreme Court     |
 | [Justice Christopher Tan](/about-us/members/christopher-tan)    | Supreme Court     |
 | [Deputy Attorney-General Tai Wei Shyong](/about-us/members/tai-wei-shyong)    | Attorney-General's Chambers     |
-| [Permanent Secretary (Home Affairs) Tan Chye Hee](/about-us/members/tan-chye-hee)    | Ministry of Home Affairs     |
+| [Permanent Secretary (Home Affairs Development) Tan Chye Hee](/about-us/members/tan-chye-hee)    | Ministry of Home Affairs     |
 | [Chief Public Defender Wong Kok Weng](/about-us/members/wong-kok-weng/)    | Ministry of Law     |
 | [Principal District Judge Toh Han Li](/about-us/members/toh-han-li)    | State Courts     |
 | [Registrar (State Courts) Edwin San](/about-us/members/edwin-san)    | State Courts     |
