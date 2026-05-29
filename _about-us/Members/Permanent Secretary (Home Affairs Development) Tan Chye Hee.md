@@ -7,7 +7,7 @@ third_nav_title: Members
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/PS_HA__Tan_Chye_Hee.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PS_HA__Tan_Chye_Hee.jpg">
 </div>
 <p>Mr Tan Chye Hee was appointed as the Permanent Secretary of the Ministry
 of Home Affairs (MHA) in June 2026.</p>
